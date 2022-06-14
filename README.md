@@ -1,4 +1,4 @@
-A simple unix shell by Ted Thuranira and Nancy Lwambi
+## A simple unix shell by Ted Thuranira and Nancy Lwambi
 
 0.Write a beautiful code that passes the Betty checks
 
