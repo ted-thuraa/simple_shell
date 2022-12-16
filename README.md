@@ -1,3 +1,17 @@
+## Concept
+[Everything you need to know to start coding your own shell](https://alx-intranet.hbtn.io/concepts/64)
+
+[Approaching a Project](https://alx-intranet.hbtn.io/concepts/350)
+
+## Resources
+
+[Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+
+[Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
+
+[Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+
+
 A simple unix shell by Ted Thuranira and Nancy Lwambi
 
 0.Write a beautiful code that passes the Betty checks
@@ -17,3 +31,4 @@ You don’t have to handle any argument to the built-in exit
 
 5. Simple shell 0.4 +
 Implement the env built-in, that prints the current environment
+
